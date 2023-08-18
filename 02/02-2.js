@@ -25,3 +25,5 @@ var value2 = 2;
 var boolValue = false;
 var operator1 = `곱셈값은 ${value1 * value2}입니다.`;
 var operator2 = `불리언값은 ${boolValue ? '참' : '거짓'}입니다.`;
+
+console.log(operator1)
